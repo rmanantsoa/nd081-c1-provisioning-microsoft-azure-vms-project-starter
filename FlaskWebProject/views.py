@@ -27,6 +27,7 @@ def home():
         posts=posts
     )
 
+
 @app.route('/new_post', methods=['GET', 'POST'])
 @login_required
 def new_post():
