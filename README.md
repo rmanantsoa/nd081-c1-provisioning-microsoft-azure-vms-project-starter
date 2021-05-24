@@ -1,9 +1,24 @@
 # Article CMS (FlaskWebProject)
 ### Create a Resource Group in Azure.
 ### Create an SQL Database in Azure that contains a user table, an article table, and data in each table (populated with the scripts provided in the SQL Scripts folder).
+![image](https://user-images.githubusercontent.com/18415884/119339179-8dcd6b00-bc99-11eb-803d-3f6831ff93b2.png)
+
 ### Provide a screenshot of the populated tables as detailed further below.
+#### table posts
+![image](https://user-images.githubusercontent.com/18415884/119339317-ae95c080-bc99-11eb-820a-1a192b5dad23.png)
+
+
+#### table users
+![image](https://user-images.githubusercontent.com/18415884/119339352-b7869200-bc99-11eb-81f8-9afec356ff25.png)
+
+
 ### Create a Storage Container in Azure for images to be stored in a container.
 ### Provide a screenshot of the storage endpoint URL as detailed further below.
+#### storage container
+![image](https://user-images.githubusercontent.com/18415884/119339404-c79e7180-bc99-11eb-9f7e-bde3a4fe3330.png)
+
+
+
 ### Add functionality to the Sign In With Microsoft button.
 ### This will require completing TODOs in views.py with the msal library, along with appropriate registration in Azure Active Directory.
 ### Choose to use either a VM or App Service to deploy the FlaskWebProject to Azure. Complete the analysis template in WRITEUP.md (or include in the README) to compare the two options, as well as detail your reasoning behind choosing one or the other. Once you have made your choice, go through with deployment.
